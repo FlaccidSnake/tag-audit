@@ -3,7 +3,7 @@
 ## Use Case
 I needed a way to quickly see which tags were used in a selection of notes, and exclude notes which have certain tags.
 
-Specificaly this was to see which notes in added:1 were already tagged, and which still needed processing. Also useful for checking if I accidentally put incorrectly tagged cards in the wrong deck, or when bulk tagging I had tagged some notes twice with different topics (it happens sometimes when selecting multiple notes from a list, I use the mark function to distinguish processed notes but accidents happen).
+Specifically this was to see which notes in added:1 were already tagged, and which still needed processing. Also useful for checking if I accidentally put incorrectly tagged cards in the wrong deck, or when bulk tagging I had tagged some notes twice with different topics (it happens sometimes when selecting multiple notes from a list, I use the mark function to distinguish processed notes but accidents happen).
 
 ## Features
 
