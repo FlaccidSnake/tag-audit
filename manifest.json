@@ -1,0 +1,9 @@
+{
+    "package": "tag_audit",
+    "name": "Tag Audit",
+    "description": "Visual tag summary with counts, filtering, and abbreviation toggles.",
+    "author": "FlaccidSnake",
+    "mod": 0,
+    "conflicts": [],
+    "homepage": "https://github.com/FlaccidSnake/tag-audit"
+}
